@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Crickbuster-Admin/static/css/main.f4b1092b.css",
-    "main.js": "/Crickbuster-Admin/static/js/main.9ffe4382.js",
+    "main.js": "/Crickbuster-Admin/static/js/main.9d0c112f.js",
     "static/js/453.59b8a61b.chunk.js": "/Crickbuster-Admin/static/js/453.59b8a61b.chunk.js",
     "static/media/login-form.png": "/Crickbuster-Admin/static/media/login-form.2762b776cc5a2f3b8e14.png",
     "static/media/WhatsApp Image 2024-07-18 at 16.45.37.jpeg": "/Crickbuster-Admin/static/media/WhatsApp Image 2024-07-18 at 16.45.37.efc6f0e861b3dafdaead.jpeg",
@@ -9,11 +9,11 @@
     "static/media/Logo.png": "/Crickbuster-Admin/static/media/Logo.4bedb98234dcde2dfe5a.png",
     "index.html": "/Crickbuster-Admin/index.html",
     "main.f4b1092b.css.map": "/Crickbuster-Admin/static/css/main.f4b1092b.css.map",
-    "main.9ffe4382.js.map": "/Crickbuster-Admin/static/js/main.9ffe4382.js.map",
+    "main.9d0c112f.js.map": "/Crickbuster-Admin/static/js/main.9d0c112f.js.map",
     "453.59b8a61b.chunk.js.map": "/Crickbuster-Admin/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4b1092b.css",
-    "static/js/main.9ffe4382.js"
+    "static/js/main.9d0c112f.js"
   ]
 }
